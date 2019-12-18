@@ -1,0 +1,281 @@
+[03-Oct-2019 05:20:10 UTC] PHP Fatal error:  Call to undefined method Common_model::get_areas() in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 71
+[03-Oct-2019 05:20:11 UTC] PHP Fatal error:  Call to undefined method Common_model::get_areas() in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 71
+[03-Oct-2019 05:20:11 UTC] PHP Fatal error:  Call to undefined method Common_model::get_areas() in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 71
+[03-Oct-2019 05:20:13 UTC] PHP Fatal error:  Call to undefined method Common_model::get_areas() in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 71
+[03-Oct-2019 05:20:14 UTC] PHP Fatal error:  Call to undefined method Common_model::get_areas() in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 71
+[04-Oct-2019 10:49:20 UTC] PHP Fatal error:  Cannot declare class Cart, because the name is already in use in /home/ns5v7fqd4oor/public_html/application/libraries/Cart.php on line 4
+[08-Oct-2019 08:55:48 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/controllers/Users.php on line 496
+[11-Oct-2019 07:34:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ns5v7fqd4oor/public_html/application/config/config.php on line 459
+[11-Oct-2019 07:34:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[11-Oct-2019 07:34:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ns5v7fqd4oor/public_html/application/config/config.php on line 459
+[11-Oct-2019 07:34:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[11-Oct-2019 07:34:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ns5v7fqd4oor/public_html/application/config/config.php on line 459
+[11-Oct-2019 07:34:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[14-Oct-2019 11:07:36 UTC] PHP Fatal error:  Cannot redeclare Api::get_delivered_order_history_post() in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 862
+[14-Oct-2019 11:08:39 UTC] PHP Fatal error:  Cannot redeclare Api::get_delivered_order_history_post() in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 862
+[22-Oct-2019 06:14:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1354
+[22-Oct-2019 06:17:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1354
+[22-Oct-2019 06:17:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1354
+[22-Oct-2019 06:29:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:30:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:30:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:30:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:30:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:30:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:30:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:30:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:30:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:31:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:31:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:31:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1320
+[22-Oct-2019 06:31:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1311
+[22-Oct-2019 06:31:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1311
+[22-Oct-2019 06:32:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 1311
+[31-Oct-2019 05:40:04 UTC] PHP Fatal error:  Cannot redeclare Api_model::get_order_detail() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 178
+[31-Oct-2019 05:40:07 UTC] PHP Fatal error:  Cannot redeclare Api_model::get_order_detail() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 178
+[31-Oct-2019 05:40:07 UTC] PHP Fatal error:  Cannot redeclare Api_model::get_order_detail() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 178
+[31-Oct-2019 05:41:27 UTC] PHP Fatal error:  Cannot redeclare Api_model::get_order_detail() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 178
+[31-Oct-2019 05:41:27 UTC] PHP Fatal error:  Cannot redeclare Api_model::get_order_detail() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 178
+[11-Nov-2019 18:12:02 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/views/home/index.php on line 193
+[11-Nov-2019 18:12:09 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/views/home/index.php on line 193
+[11-Nov-2019 18:12:18 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/views/home/index.php on line 193
+[11-Nov-2019 18:13:07 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/views/home/index.php on line 193
+[11-Nov-2019 18:13:17 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/views/home/index.php on line 193
+[11-Nov-2019 18:14:42 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/views/home/index.php on line 193
+[13-Nov-2019 14:42:17 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 699 in /home/ns5v7fqd4oor/public_html/application/controllers/api/Cart_api.php on line 699
+[13-Nov-2019 14:42:18 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 699 in /home/ns5v7fqd4oor/public_html/application/controllers/api/Cart_api.php on line 699
+[13-Nov-2019 17:43:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Common_model::get_deliveryboy_by_orderid() in /home/ns5v7fqd4oor/public_html/application/models/Common_model.php on line 720
+[13-Nov-2019 18:11:49 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:13:30 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:13:31 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:13:32 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:13:33 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:13:36 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:13:38 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:13:40 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:14:10 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:14:34 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:20:51 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:22:51 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:22:54 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:27:22 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:27:26 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 390
+[13-Nov-2019 18:34:57 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/ns5v7fqd4oor/public_html/application/controllers/Home.php on line 392
+[14-Nov-2019 10:51:50 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/views/home/index.php on line 554
+[14-Nov-2019 10:52:00 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/views/home/index.php on line 554
+[18-Nov-2019 15:13:59 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/controllers/my_account/Favorite_food.php on line 55
+[18-Nov-2019 15:15:09 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/ns5v7fqd4oor/public_html/application/controllers/my_account/Favorite_food.php on line 55
+[20-Nov-2019 15:44:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Common_model::get_field_by_id() in /home/ns5v7fqd4oor/public_html/application/models/Common_model.php on line 45
+[20-Nov-2019 15:44:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Common_model::get_field_by_id() in /home/ns5v7fqd4oor/public_html/application/models/Common_model.php on line 45
+[22-Nov-2019 16:15:05 Asia/Kolkata] PHP Fatal error:  Class 'REST_Controller' not found in /home/ns5v7fqd4oor/public_html/application/controllers/api/Api.php on line 7
+[22-Nov-2019 17:27:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:46 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:48 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:48 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:56 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:58 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:27:58 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:28:58 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:29:45 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 703
+[22-Nov-2019 17:35:24 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 704
+[22-Nov-2019 17:35:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare get_food_menu() (previously declared in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php:688) in /home/ns5v7fqd4oor/public_html/application/helpers/common_helper.php on line 704
+[26-Nov-2019 19:05:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare time_convert() (previously declared in /home/ns5v7fqd4oor/public_html/application/views/blog/index.php:39) in /home/ns5v7fqd4oor/public_html/application/views/blog/index.php on line 39
+[03-Dec-2019 16:38:08 Asia/Kolkata] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/ns5v7fqd4oor/public_html/application/views/cart/checkout.php on line 12
+[03-Dec-2019 16:38:12 Asia/Kolkata] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/ns5v7fqd4oor/public_html/application/views/cart/checkout.php on line 12
+[03-Dec-2019 16:38:45 Asia/Kolkata] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/ns5v7fqd4oor/public_html/application/views/cart/checkout.php on line 12
+[03-Dec-2019 16:39:08 Asia/Kolkata] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/ns5v7fqd4oor/public_html/application/views/cart/checkout.php on line 12
+[03-Dec-2019 16:39:17 Asia/Kolkata] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/ns5v7fqd4oor/public_html/application/views/cart/checkout.php on line 12
+[03-Dec-2019 16:39:33 Asia/Kolkata] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/ns5v7fqd4oor/public_html/application/views/cart/checkout.php on line 12
+[03-Dec-2019 16:39:45 Asia/Kolkata] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/ns5v7fqd4oor/public_html/application/views/cart/checkout.php on line 12
+[03-Dec-2019 16:41:20 Asia/Kolkata] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/ns5v7fqd4oor/public_html/application/views/cart/checkout.php on line 12
+[03-Dec-2019 16:43:59 Asia/Kolkata] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/ns5v7fqd4oor/public_html/application/views/cart/checkout.php on line 12
+[03-Dec-2019 16:44:19 Asia/Kolkata] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/ns5v7fqd4oor/public_html/application/views/cart/checkout.php on line 12
+[05-Dec-2019 17:37:01 Asia/Kolkata] PHP Fatal error:  Assignments can only happen to writable values in /home/ns5v7fqd4oor/public_html/application/helpers/coupon_helper.php on line 1140
+[10-Dec-2019 12:16:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:16:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:16:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:07 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:09 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:11 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:17 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:19 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:20 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:22 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:33 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:33 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:33 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:33 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:34 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:36 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:37 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:45 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:55 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:17:56 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:03 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:03 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:03 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:05 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:07 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:15 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:19 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:19 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:22 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:22 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:24 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:30 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:31 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:34 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:35 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:35 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:35 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:36 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:37 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:54 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:54 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:54 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:54 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:54 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:55 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:18:57 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:03 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:04 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:04 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:04 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:05 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:19 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:19 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:22 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:24 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:24 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:29 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:29 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:49 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:50 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:19:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:02 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:04 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:06 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:06 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:07 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:08 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:11 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:12 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:16 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:20 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:21 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:21 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:21 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:22 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:22 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:27 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:27 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:27 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:31 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:39 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:39 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:39 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:40 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:43 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:46 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:46 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:48 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:20:48 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:13 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:15 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:15 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:29 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:56 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:58 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:58 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:21:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:06 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:12 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:12 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:16 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:16 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:39 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:55 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:58 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:58 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:22:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:23:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:23:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:23:09 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:24:16 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:24:22 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:24:41 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:24:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:24:47 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:25:02 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:25:20 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:25:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197
+[10-Dec-2019 12:25:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Api_model::get_deliveryboy_order_list() in /home/ns5v7fqd4oor/public_html/application/models/api/Api_model.php on line 197

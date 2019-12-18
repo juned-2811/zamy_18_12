@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-23 01:19:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-11-23 01:19:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-11-23 01:43:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-11-23 01:43:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-11-23 03:43:28 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-11-23 03:45:46 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-11-23 07:12:32 --> 404 Page Not Found: api/Get_address_book/index
+ERROR - 2019-11-23 07:13:08 --> 404 Page Not Found: api//index
+ERROR - 2019-11-23 07:24:37 --> 404 Page Not Found: api//index
+ERROR - 2019-11-23 07:27:32 --> 404 Page Not Found: api/Get_address_book/index
+ERROR - 2019-11-23 08:41:53 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-11-23 12:02:30 --> 404 Page Not Found: api//index
+ERROR - 2019-11-23 16:06:11 --> 404 Page Not Found: api//index
+ERROR - 2019-11-23 17:50:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-11-23 18:06:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-11-23 18:06:56 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-11-23 18:38:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-11-23 18:38:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-11-23 19:16:26 --> 404 Page Not Found: api//index
+ERROR - 2019-11-23 21:09:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-11-23 22:28:17 --> 404 Page Not Found: api//index
+ERROR - 2019-11-23 22:48:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-11-23 23:20:15 --> 404 Page Not Found: Uploads/customer_profiles
+ERROR - 2019-11-23 23:20:17 --> 404 Page Not Found: Uploads/customer_profiles
+ERROR - 2019-11-23 23:20:30 --> 404 Page Not Found: Uploads/customer_profiles
+ERROR - 2019-11-23 23:20:31 --> 404 Page Not Found: Uploads/customer_profiles
+ERROR - 2019-11-23 23:20:35 --> 404 Page Not Found: Uploads/customer_profiles
+ERROR - 2019-11-23 23:20:36 --> 404 Page Not Found: Uploads/customer_profiles

@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-10-26 01:46:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 03:03:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 03:04:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 03:04:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 05:48:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 05:48:59 --> 404 Page Not Found: Dashboardhtml/index
+ERROR - 2019-10-26 06:23:09 --> 404 Page Not Found: Assets/css
+ERROR - 2019-10-26 06:56:21 --> 404 Page Not Found: Food-detailhtml/index
+ERROR - 2019-10-26 08:10:34 --> 404 Page Not Found: Assets/css
+ERROR - 2019-10-26 08:11:39 --> 404 Page Not Found: Assets/css
+ERROR - 2019-10-26 08:19:21 --> 404 Page Not Found: Coming-soonhtml/index
+ERROR - 2019-10-26 08:48:47 --> 404 Page Not Found: Assets/css
+ERROR - 2019-10-26 09:08:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 09:35:58 --> 404 Page Not Found: Blog-detailhtml/index
+ERROR - 2019-10-26 10:29:45 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2019-10-26 10:29:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-10-26 10:30:00 --> 404 Page Not Found: User/index
+ERROR - 2019-10-26 10:30:04 --> 404 Page Not Found: Assets/css
+ERROR - 2019-10-26 10:30:06 --> 404 Page Not Found: Login/index
+ERROR - 2019-10-26 10:53:46 --> 404 Page Not Found: Price-tablehtml/index
+ERROR - 2019-10-26 13:59:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 14:45:52 --> 404 Page Not Found: Assets/css
+ERROR - 2019-10-26 17:13:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 18:00:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 18:02:56 --> 404 Page Not Found: Our-serviceshtml/index
+ERROR - 2019-10-26 19:32:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 19:34:37 --> 404 Page Not Found: Blog-detail-left-sidebarhtml/index
+ERROR - 2019-10-26 20:19:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-10-26 20:21:47 --> 404 Page Not Found: Restaurant-found2html/index

@@ -1,0 +1,188 @@
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+<link href="<?php echo base_url('assets/swiggy/css/swiggy.css')?>" rel="stylesheet">
+<?php 
+
+?>
+<div id="root" style="height: 100%;">
+    <div class="_3arMG">
+        <div class="nDVxx">
+            <div class="_1MdYR">
+                <div class="_1TWur">
+                    <div class="_2COmU">
+                        <div class="m3-34">
+                            <div class="_2TYHu">
+                                <img width="180" class="dark-logo" src="https://www.hopmeal.com/wp-content/uploads/2018/07/hop-meal-new.png">
+                                <div class="_2fX4J"><a class="x4bK8">Login</a><a class="r2iyh">Sign up</a></div>
+                            </div>
+                            <h1 class="sZsUd">Late night at office?</h1>
+                            <h2 class="_1E3AJ">Order food from favourite restaurants near you.</h2>
+							<?php echo form_open('home/index'); ?>
+                            <div class="_3mZgT">
+							 
+                                <div class="Al5GE">
+                                    <div class="_3Um38 _2oQ4_">
+                                       
+									<select name="location" id="" class="_381fS _1oTLG _3BIgv">
+										<option value="">Select your location</option>
+										<?php foreach($area_list as $list){ ?>
+											<option value="<?php echo $list['area']?>"><?php echo $list['area']?></option>
+										<?php } ?>
+									</select>
+								
+                                        <div class="_2EeI1 _26LFr"></div>
+                                        <label class="_1Cvlf _2tL9P" for="location"></label>
+                                    </div>
+                                  
+                                </div>
+								<input type="submit" class="_3iFC5" name="search_location" value="FIND FOOD">
+								
+								</div>
+								<?php echo form_close(); ?>
+                            <h3 class="_1nQLS">Popular cities in India</h3>
+                            <ul class="_3TE0x">
+                                <li class="_1jdR4"><a href="/ahmedabad" class="_3zoZ8">Ahmedabad</a></li>
+                                <li class="_1jdR4">
+                                    <a href="#city-links" class="_3zoZ8">
+                                        <!-- -->&amp; more.</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="_2h2bu" style="background-image:url('https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Lunch1_vlksgq')"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="_2b6Ch">
+        <div class="_3WqGq">
+            <div class="_1vd_H">
+                <div class="_2VSxh"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="overlay-sidebar-root">
+    <div>
+        <div>
+            <div class="FYlIl"></div>
+            <div class="_3vi_e" style="left: auto; right: 0px; transform: translate(0%);">
+                <div class="_12S7_">
+                    <div class="">
+                        <div style="padding-left: 40px; padding-right: 75px; width: 477px;">
+                            <div class="_3pYe-" style="height: 130px;"><span class="_22fFW icon-close-thin"></span>
+                                <div class="_1Tg1D">Login</div>
+                                <div class="HXZeD"></div>
+                                <div class="_2r91t">or <a class="_3p4qh">create an account</a></div><img class="_2tuBw _12_oN jdo4W" alt="" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/Image-login_btpq7r" width="100" height="105"></div>
+                            
+							<?php echo form_open('',array('id'=>'verify_otp','class'=>'verify_otp')); ?>
+                                <div>
+                                    <div class="_3Um38 _3lG1r">
+                                        <input class="_381fS" type="tel" name="mobile" id="mobile" >
+                                        <div class="_2EeI1 _26LFr"></div>
+                                        <label class="_1Cvlf _2tL9P " for="mobile">Phone number</label>
+                                    </div>
+									
+									<div class="_3Um38 _3lG1r" id="one_time_password" style="display:none;">
+										<input class="_381fS" type="text" name="otp" id="otp" tabindex="2" autocomplete="off" value="">
+										<div class="_2EeI1 _26LFr"></div>
+										<label class="_1Cvlf _2tL9P " for="otp">One time password</label>
+										
+									</div>
+                                </div>
+                                
+								<div class="_25qBi _2-hTu" id="send_otp_div">
+                                    <a class="a-ayg" id="send_otp" >
+                                       Login</a>
+                                </div>
+								
+								<div id="verify_otp_div" style="display:none;">
+									<div class="B9kkl">
+										<div class="_1ASpm">Didn't receive OTP</div>
+										<div class="_1FXXi">Verify via call</div>
+									</div>
+									<div class="_25qBi _2-hTu">
+										<a class="a-ayg" id="submit">VERIFY OTP</a>
+									</div>
+								</div>
+                            <?php echo form_close(); ?>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('#send_otp').click(function () {
+		var mobile = $('#mobile').val();
+		var site_url = "<?php echo base_url();?>";
+		if(mobile==''){
+			alert('mobile number is required');
+			return false;
+		}
+		
+		jQuery.ajax({
+			type: "POST",
+			dataType: 'html',
+			url: site_url + "home/sent_otp",
+			data: {'mobile':mobile},
+			success: function (response) {
+				var response1 = JSON.parse(response);
+				
+				if(response1.success==1){
+					$('#send_otp_div').hide();
+					$('#one_time_password').show();
+					$('#verify_otp_div').show();
+				}else{
+					alert(response1.message);
+				}
+				console.log(response1.message);
+			},
+			error: function (xhr, extStatus, errorThrown) {
+				alert('An error occurred! ' + errorThrown);
+			}
+		});
+	});
+});
+
+$('#submit').click(function(e){
+e.preventDefault();
+
+	var otp = $('#otp').val();
+	var mobile = $('#mobile').val();
+	var site_url = "<?php echo base_url();?>";
+	if(otp==''){
+		alert('otp number is required');
+		return false;
+	}
+	jQuery.ajax({
+		type: "POST",
+		dataType: 'html',
+		url: site_url + "home/verify_otp",
+		data: {'otp':otp,'mobile':mobile},
+		success: function (response) {
+			var response1 = JSON.parse(response);
+			
+			if(response1.success==1){
+				$('#send_otp_div').hide();
+				$('#one_time_password').show();
+				$('#verify_otp_div').show();
+				
+				var link = "<?php echo base_url('restaurants');?>";
+				window.location = link;	
+			}else if(response1.success==2){
+				var link = "<?php echo base_url();?>";
+				//window.location = link;	
+			}else{
+				alert(response1.message);
+			}
+			console.log(response1.message);
+		},
+		error: function (xhr, extStatus, errorThrown) {
+			alert('An error occurred! ' + errorThrown);
+		}
+	});
+});
+</script>

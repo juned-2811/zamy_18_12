@@ -1,0 +1,89 @@
+.cmn-zamy-sdbr {
+    z-index: 999;
+}
+.cmn-zamy-sdbr {
+    position: fixed;
+    top: 0;
+    height: 100%;
+    overflow-y: scroll;
+    background: #fff;
+    transition: transform .3s ease-out;
+    z-index: 10001;
+    transform: translateZ(0);
+}
+.position-relative{
+	position: relative;
+}
+.cmn-sgy-div {
+    height: 100vh;
+    position: relative;
+    background: #F6F6F6;
+}
+.zamy-srch{
+	padding-left:75px;
+	padding-right: 40px; 
+}
+.zamy-clse{
+	padding: 32px 0 20px;
+    margin-bottom: 30px;
+}
+.SSFcO {
+    float: left;
+    color: #3d4152;
+    cursor: pointer;
+}
+.zamy-src-inpt input#searchInput {
+    border: 1px solid #ccc;
+    box-shadow: none;
+    height: 50px;
+    border-radius: inherit;
+    margin-bottom: 20px;
+}
+.zmy-src-lctn{
+	padding-left: 75px; padding-right: 40px;
+}
+.svd-adrs {
+    max-width: 450px;
+    padding: 0 55px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.cmn-box-dsgn{
+	background: #fff;
+	border-color: transparent;
+	box-shadow: 0 5px 32px 0 rgba(0, 0, 0, 0.04);
+}
+.location-gtbx:hover .lctn-txt-ttl{
+color: 	#e03335;
+}
+.location-gtbx{
+	cursor: pointer;
+	position: relative;
+}
+.rct-adrs:hover .adrs-txt{
+color: 	#e03335;
+}
+.rct-adrs{
+	cursor: pointer;
+	position: relative;
+}
+.bg-theme{
+	background: #e03335;
+}
+.achr-btn{
+color: #e03335;
+    border: 1px solid #e03335;
+    margin-top: -7px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 0;
+    font-weight: 600;
+}
+.mb20{
+	margin-bottom: 20px;
+}
+.bg-theme:hover{
+	color: #fff;
+}
