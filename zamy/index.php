@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 /**
  * CodeIgniter
  *
@@ -89,8 +90,8 @@ switch (ENVIRONMENT)
 		exit(1); // EXIT_ERROR
 }
 
-ini_set('display_errors', 'On');
-error_reporting(E_ALL);
+ini_set('display_errors', 'Off');
+error_reporting(0);
 define('MP_DB_DEBUG', true);
 
 /*
